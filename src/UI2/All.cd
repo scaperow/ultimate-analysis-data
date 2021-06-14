@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Analysis.Identity">
+    <Position X="2.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAEAAAAgQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Identity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Analysis.Quoted" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Quoted.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Analysis.IdentityResultArgs">
+    <Position X="5.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQABAAAAAAAAAAAAAgAIAAAABAAAAAA=</HashCode>
+      <FileName>Args.cs</FileName>
+      <NewMemberFileName>IdentityResult.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.EventArgs" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Enum Name="Analysis.IdentityResultStateEnum">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAgAAAAAQgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enumeration.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Analysis.ProfessionalEnum">
+    <Position X="1.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAEAAAAAAAAAAAAACADAAAAA=</HashCode>
+      <FileName>Enumeration.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
